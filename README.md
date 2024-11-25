@@ -29,3 +29,4 @@
  - Louissaint Anne Cora, @Cabiora 3- Role (Backend Developer)
  
  ## Licence
+ Ce projet est sous licence MIT- voir le fichier [LICENSE](LICENSE) pour plus de d'information.
