@@ -19,7 +19,8 @@
  To play, select the difficulty level. There are 4 levels: easy (1 to 100), medium (1 to 300), difficult (1 to 500) and extreme (1 to 10000).
  
  2- Rules
-    a) Number of tests and limited life 
+ 
+   a) Number of tests and limited life 
     
   The test meter will be accompanied by a life system. Depending on the difficulty you choose, you'll have 5 lives or number of trials for the easy level, 3 for the medium level, 2 for the difficult level and 1 life for the extreme level.
 
