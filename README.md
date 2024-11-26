@@ -7,9 +7,10 @@
  - Feature 1: Generates of a random number between two bounds ( 1 to 100), (1 to 300), (1 to 500), (1 to 10000).
  - Feature 2: Player enters propositions and receives hints (“larger”, “smaller”, "odd",     "even").
  - Feature 3: Number of trials counter.
- - Feature 4: Choice of difficulty levels (easy, medium, difficult and extreme). 
- - Feature 5: The player is classified according to score and difficulty level.
- - Feature 6: The player can challenge another player in the challenge section.
+ - Feature 4: Limited life.
+ - Feature 5: Choice of difficulty levels (easy, medium, difficult and extreme). 
+ - Feature 6: The player is classified according to score and difficulty level.
+ - Feature 7: The player can challenge another player in the challenge section.
    
  ## Install
 
