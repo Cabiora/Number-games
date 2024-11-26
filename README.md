@@ -25,7 +25,7 @@
   The test meter will be accompanied by a life system. Depending on the difficulty you choose, you'll have 5 lives or number of trials for the easy level, 3 for the medium level, 2 for the difficult level and 1 life for the extreme level.
 
  ## Contributors
- - Beldor Valeria, @ 1- Role (Frontend Developer)
+ - Beldor Valeria, @Valkiree 1- Role (Frontend Developer)
  - Pierre Jahnai, @Nainah178 2- Role (Designer)
  - Louissaint Anne Cora, @Cabiora 3- Role (Backend Developer)
  
