@@ -1,7 +1,7 @@
 # Number-games
  ## Description
  This game involves guessing a random number chosen by the computer within a given
- but the computer will display a counter for the number of tries. To help you, you'll receive hints (“bigger”, “smaller”, "Odd", Even) and you can choose your level of difficulty.
+ but the computer will display a counter for the number of tries. To help you, you'll receive hints (“bigger”, “smaller”, "odd", "even") and you can choose your level of difficulty.
  
  ## Functionality
  - Feature 1: Generates of a random number between two bounds ( 1 to 100), (1 to 300), (1 to 500), (1 to 10000).
