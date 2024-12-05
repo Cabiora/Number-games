@@ -9,9 +9,13 @@
     <header>
       <h1>Number game</h1>
     </header>
-    <section id="game">
-      <p>le jeux en question </p>
-      <!--le code du jeux-->
-    </section>
+    <div class="game-container">
+      <h2>Devinez le nombre.</h2>
+    <div class="input-group">
+      <input type="number" id="userGuess" min="1" max="100" placeholder="Votre nombre" />
+    </div>
+    <div class="result" id="resultMessage"></div>
+      <div id="attemptsMessage"></div>
+    </div>
   </body>
 </html>
