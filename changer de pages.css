@@ -1,8 +1,0 @@
-/* Cacher toutes les pages sauf celle active */
-.page {
-  display: none;
-}
-
-.page.active {
-  display: block;
-}
