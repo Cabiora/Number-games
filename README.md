@@ -5,14 +5,14 @@
  
  ## Functionality
  - Feature 1: Generates of a random number between two bounds ( 1 to 100), (1 to 300), (1 to 500), (1 to 10000).
- - Feature 2: Player enters propositions and receives hints (“larger”, “smaller”, "odd",     "even").
+ - Feature 2: Player enters propositions and receives hints (“larger”, “smaller”, "odd", "even").
  - Feature 3: Number of trials counter.
  - Feature 4: Choice of difficulty levels (easy, medium, difficult and extreme).
  - Feature 5: Limited trials
 
  ## Install
    ### Jouer directement en ligne 
- Vous pouvez jouer à notre jeu directement en ligne en visitant notre page [GitHub Pages]()
+ Vous pouvez jouer à notre jeu directement en ligne en visitant notre page [GitHub Pages]( https://cabiora.github.io/Number-games/)
 
  ## Usage
  1- How to play?
@@ -24,8 +24,7 @@
    a) Limited trials 
     
   The trial counter is limited. Depending on the chosen difficulty, you will have 5 trials for the easy level, 3 for the medium level, 2 for the difficult level and 1 for the extreme level.
-
-[Voir la page principale du projet](https://cabiora.github.io/Number-games/)
+  
 
  ## Contributors
  - Beldor Valeria, @Valkiree 1- Role (Frontend Developer)
