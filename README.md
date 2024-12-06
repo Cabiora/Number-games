@@ -7,11 +7,9 @@
  - Feature 1: Generates of a random number between two bounds ( 1 to 100), (1 to 300), (1 to 500), (1 to 10000).
  - Feature 2: Player enters propositions and receives hints (“larger”, “smaller”, "odd",     "even").
  - Feature 3: Number of trials counter.
- - Feature 4: Limited life.
- - Feature 5: Choice of difficulty levels (easy, medium, difficult and extreme). 
- - Feature 6: The player is classified according to score and difficulty level.
- - Feature 7: The player can challenge another player in the challenge section.
-   
+ - Feature 4: Choice of difficulty levels (easy, medium, difficult and extreme).
+ - Feature 5: Limited trials
+
  ## Install
 
  ## Usage
@@ -21,9 +19,10 @@
  
  2- Rules
  
-   a) Number of tests and limited life 
+   a) Limited trials 
     
-  The test meter will be accompanied by a life system. Depending on the difficulty you choose, you'll have 5 lives or number of trials for the easy level, 3 for the medium level, 2 for the difficult level and 1 life for the extreme level.
+  The trial counter is limited. Depending on the chosen difficulty, you will have 5 trials for the easy level, 3 for the medium level, 2 for the difficult level and 1 for the extreme level.
+
 
  ## Contributors
  - Beldor Valeria, @Valkiree 1- Role (Frontend Developer)
