@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Classement des joueurs</title>
+  <style>
+    /* Arrière-plan avec un thème rose pastel */
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, ##2E8B57, ##2E8B57);
+      color: #333;
+    }
+
+    /* En-tête */
+    header {
+      background-color: #228B22;
+      padding: 20px 0;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      color: #fff;
+    }
+
+    /* Conteneur principal */
+    .container {
+      margin: 40px auto;
+      padding: 20px;
+      width: 80%;
+      max-width: 800px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    .container h2 {
+      text-align: center;
+      font-size: 1.8em;
+      margin-bottom: 20px;
+      color: #2E8B57;
+    }
+
+    /* Tableau */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 1.1em;
+      text-align: left;
+    }
+
+    table thead tr {
+      background-color: #00FF00;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    table th, table td {
+      padding: 15px;
+      border: 1px solid #FFD700;
+    }
+
+    table tbody tr:nth-child(even) {
+      background-color: #3CB371;
+    }
+
+    table tbody tr:nth-child(odd) {
+      background-color: #2E8B57;
+    }
+
+    table tbody tr:hover {
+      background-color: #ff6;
+      color: #fff;
+      transition: 0.3s;
+    }
+
+    /* Pied de page */
+    .footer {
+      text-align: center;
+      margin-top: 20px;
+      padding: 10px 0;
+      background: ##2E8B57;
+      color: #fff;
+      font-size: 0.9em;
+      box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .footer p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Classement des joueurs</h1>
+  </header>
+  <div class="container">
+    <h2>Top 3 des meilleurs joueurs</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Rang</th>
+          <th>Nom</th>
+          <th>Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>joueur1</td>
+          <td>1500</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>joueur2</td>
+          <td>1400</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>joueur3</td>
+          <td>1300</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <footer class="footer">
+    <p>Classement mis à jour en temps réel lors du jeu</p>
+  </footer>
+</body>
+</html>
