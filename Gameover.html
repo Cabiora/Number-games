@@ -9,6 +9,15 @@
   <body>
    <div class="game-over">
      <h1>GAME OVER</h1>
+     <p>Le nombre était: <span id="number"></span></p> 
+     <button onclick="restartGame()">Recommencer une nouvelle partie</button>
    </div>
+    <script>
+      document.getElementById('number').textContent = localStorage.getItem('randomNumber');
+      function restartGame() { 
+               localStorage.removeItem('randomNumber'); 
+               window.location.href = 'game.html'; 
+                             }
+    </script>
   </body>
 </html>
