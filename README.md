@@ -11,7 +11,8 @@
  - Feature 5: Limited trials
 
  ## Install
- 
+   ### Jouer directement en ligne 
+ Vous pouvez jouer à notre jeu directement en ligne en visitant notre page [GitHub Pages]()
 
  ## Usage
  1- How to play?
